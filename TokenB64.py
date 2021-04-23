@@ -6,7 +6,11 @@ import os
 os.system("title Loading...")
 print(f"""
 {Fore.MAGENTA}
-                           
+                                  ______________________________   / |\  | /  .
+                                 /                            / \     \ \ / /
+                                |       SyntaxTool           | ==========  -  - -
+                                 \____________________________\_/     / / \ \
+                                        .  / | \  .
                                        {Fore.WHITE}          Loading...
 """)
 print(f"{Fore.MAGENTA}")
@@ -21,7 +25,10 @@ os.system("title SyntaxTool - Ready")
 os.system("cls")
 print(f"""
 {Fore.MAGENTA}
-                             
+                                  ______________________________   / |\  | /  .
+                                 /                            / \     \ \ / /
+                                 |      SyntaxTool            | ==========  -  - -
+                                 \____________________________\_/     / / \ \
                                     {Fore.WHITE}        Input the User ID
 """)
 
