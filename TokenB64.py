@@ -21,7 +21,7 @@ for item in progressbar:
 
 import base64, pyperclip
 
-os.system("title SyntaxTool - Ready")
+os.system("title SyntaxTool - Ready By 0505#1574")
 os.system("cls")
 print(f"""
 {Fore.MAGENTA}
